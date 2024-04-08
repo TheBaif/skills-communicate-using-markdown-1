@@ -3,4 +3,4 @@
 ### Heading level 3
 #### Heading level 4
 ---
-[![An old rock in the desert](/https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
